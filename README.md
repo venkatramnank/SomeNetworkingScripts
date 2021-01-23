@@ -1,2 +1,2 @@
 # SomeNetworkingScripts
-Python programs for network programming
+Python and C programs for network programming
